@@ -37,8 +37,8 @@
     }, {
       "id": 2,
       "num": "002",
-      "name": "Agumon",
-      "img": "https://i.imgur.com/rdaEwB6.png",
+      "name": "Tsunomon",
+      "img": "https://i.imgur.com/yq4mtcj.png",
       "type": [
         "Grass",
         "Poison"
@@ -63,17 +63,17 @@
       ],
       "prev_evolution": [{
         "num": "001",
-        "name": "Bulbasaur"
+        "name": "Koromon"
       }],
       "next_evolution": [{
-        "num": "003",
-        "name": "Venusaur"
+        "num": "009",
+        "name": "Gabumon"
       }]
     }, {
       "id": 3,
       "num": "003",
-      "name": "Venusaur",
-      "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+      "name": "Yokomon",
+      "img": "https://i.imgur.com/WR7OGWU.png",
       "type": [
         "Grass",
         "Poison"
@@ -94,10 +94,11 @@
       ],
       "prev_evolution": [{
         "num": "001",
-        "name": "Bulbasaur"
-      }, {
-        "num": "002",
-        "name": "Ivysaur"
+        "name": "Koromon"
+      }],
+      "next_evolution": [{
+        "num": "0010",
+        "name": "Biyomon"
       }]
     }, {
       "id": 4,
