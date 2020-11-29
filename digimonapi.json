@@ -100,5 +100,315 @@
         "num": "0010",
         "name": "Biyomon"
       }]
-    }]
+    }, {
+        "id": 4,
+        "num": "004",
+        "name": "Motimon",
+        "img": "https://i.imgur.com/cfRKRXr.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 5,
+        "num": "005",
+        "name": "Tanemon",
+        "img": "https://i.imgur.com/VyDixeV.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 6,
+        "num": "006",
+        "name": "Bukamon",
+        "img": "https://i.imgur.com/E700fLH.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 7,
+        "num": "007",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 8,
+        "num": "008",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 9,
+        "num": "009",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 10,
+        "num": "010",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 11,
+        "num": "011",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 12,
+        "num": "012",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }, {
+        "id": 13,
+        "num": "013",
+        "name": "Tokomon",
+        "img": "https://i.imgur.com/bhsoowC.png",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "height": "2.01 m",
+        "weight": "100.0 kg",
+        "candy": "Bulbasaur Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.017,
+        "avg_spawns": 1.7,
+        "spawn_time": "11:30",
+        "multipliers": null,
+        "weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ],
+        "prev_evolution": [{
+          "num": "001",
+          "name": "Koromon"
+        }],
+        "next_evolution": [{
+          "num": "0011",
+          "name": "Tentomon"
+        }]
+      }]
 }
