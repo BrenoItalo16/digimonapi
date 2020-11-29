@@ -5,7 +5,7 @@
       "name": "Koromon",
       "img": "https://i.imgur.com/y2wVnnX.png",
       "type": [
-        "Grass",
+        "Fire",
         "Poison"
       ],
       "height": "0.71 m",
@@ -40,8 +40,7 @@
       "name": "Tsunomon",
       "img": "https://i.imgur.com/yq4mtcj.png",
       "type": [
-        "Grass",
-        "Poison"
+        "Water"
       ],
       "height": "0.99 m",
       "weight": "13.0 kg",
@@ -75,8 +74,8 @@
       "name": "Yokomon",
       "img": "https://i.imgur.com/WR7OGWU.png",
       "type": [
-        "Grass",
-        "Poison"
+        "Flying",
+        "Fire"
       ],
       "height": "2.01 m",
       "weight": "100.0 kg",
@@ -227,11 +226,10 @@
       }, {
         "id": 8,
         "num": "008",
-        "name": "Tokomon",
+        "name": "Agumon",
         "img": "https://i.imgur.com/bhsoowC.png",
         "type": [
-          "Grass",
-          "Poison"
+          "Fire"
         ],
         "height": "2.01 m",
         "weight": "100.0 kg",
