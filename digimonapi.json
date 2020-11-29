@@ -256,11 +256,11 @@
       }, {
         "id": 9,
         "num": "009",
-        "name": "Indefinido",
+        "name": "Netinhomon",
         "img": "https://i.imgur.com/bhsoowC.png",
         "type": [
-          "Ghost",
-          "Poison"
+          "Fire",
+          "Ghost"
         ],
         "height": "2.01 m",
         "weight": "100.0 kg",
